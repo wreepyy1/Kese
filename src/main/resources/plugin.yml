@@ -6,6 +6,7 @@ authors: [ wreepyy ]
 depend: [ Vault ]
 loadbefore: [Towny] # townynin önceden yüklenmemesi için
 description: altın tabanlı yarı fiziksel yarı sanal ekonomi eklentisi
+folia-supported: true
 
 commands:
   kese:
