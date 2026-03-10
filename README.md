@@ -1,25 +1,14 @@
+# Kese
+Spigot için altın tabanlı yarı fiziksel yarı sanal ekonomi eklentisi. (Vault)
+[![Latest Release](https://img.shields.io/github/v/release/wreepyy1/Kese?style=flat-square&color=blue&label=release)](https://github.com/wreepyy1/Kese/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/wreepyy1/Kese/total?style=flat-square&color=green&label=downloads)](https://github.com/wreepyy1/Kese/releases)
+[![License](https://img.shields.io/github/license/wreepyy1/Kese?style=flat-square&color=orange&label=license)](https://github.com/wreepyy1/Kese/blob/main/LICENSE)
+[![bStats Servers](https://img.shields.io/bstats/servers/13183?style=flat-square&color=blueviolet&label=servers)](https://bstats.org/plugin/bukkit/Kese/13183)
 
-# 💰 Kese - Altın Tabanlı Ekonomi Sistemi
+# İndir
+- **Son sürüm:** https://github.com/wreepyy1/Kese/releases/tag/1.0.1
 
-Minecraft sunucuları için geliştirilmiş, altın külçesini fiziksel ve sanal ekonomi arasında köprü yapan gelişmiş bir Vault tabanlı ekonomi eklentisidir.
-
-## ✨ Özellikler
-* **Çift Yönlü Ekonomi:** Altınlarınızı bankaya yatırın veya bankadan altın olarak çekin.
-* **Vault Desteği:** Diğer tüm ekonomi eklentileriyle tam uyumlu.
-* **Akıllı Tab Tamamlama:** Sayısal değer girerken basamak artıran akıllı sistem.
-* **SQLite Veritabanı:** WAL modu ile optimize edilmiş, hızlı ve güvenli veri saklama.
-
-## 🛠 Komutlar
-* `/kese` - Mevcut bakiyenizi gösterir.
-* `/kese al <miktar>` - Bankadan altın çekmenizi sağlar.
-* `/kese koy <miktar>` - Envanterdeki altınları bankaya yatırır.
-* `/altın gonder <oyuncu> <miktar>` - Diğer oyunculara para gönderir.
-
-## 🛠 Yönetici Komutları
-* `/keseadmin` - Yönetici komutları.
-
-## 📥 İndirme
-Güncel sürümleri sağ taraftaki **Releases** kısmından indirebilirsiniz.
-
----
-**Geliştirici:** Wreepyy
+# Lisans
+<a href="https://opensource.org/licenses/MIT">
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" alt="MIT License">
+</a>
