@@ -10,6 +10,4 @@ Spigot için altın tabanlı yarı fiziksel yarı sanal ekonomi eklentisi. (Vaul
 - **Son sürüm:** https://github.com/wreepyy1/Kese/releases/tag/1.0.1
 
 # Lisans
-<a href="https://opensource.org/licenses/MIT">
-  <img src="https://opensource.org/wp-content/uploads/2021/07/MIT-license-approved-square-512-1.png" alt="MIT License Logo" width="128" height="128">
-</a>
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://opensource.org/licenses/MIT)
