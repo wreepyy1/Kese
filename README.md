@@ -11,5 +11,5 @@ Spigot için altın tabanlı yarı fiziksel yarı sanal ekonomi eklentisi. (Vaul
 
 # Lisans
 <a href="https://opensource.org/licenses/MIT">
-  <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" alt="MIT License">
+  <img src="https://opensource.org/wp-content/uploads/2021/07/MIT-license-approved-square-512-1.png" alt="MIT License Logo" width="128" height="128">
 </a>
